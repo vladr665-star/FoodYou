@@ -18,7 +18,7 @@
 
 | Главный экран | Добавление еды | Отчёты за день | Настройки целей |
 |---------------|----------------|----------------|-----------------|
-| ![Home](screenshots/1.png) | ![Add meal](screenshots/2.png) | ![Reports](screenshots/3.png) | ![Goals](screenshots/4.png) |
+| ![Home](1.png) | ![Add meal](2.png) | ![Reports](3.png) | ![Goals](4.png) |
 
 ## Технологии
 
